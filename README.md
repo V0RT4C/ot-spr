@@ -1,4 +1,4 @@
-# @ot/spr
+# @v0rt4c/spr
 
 This library can (parse/read) and write binary .SPR files from Tibia.
 Supported .SPR versions are those that came included in Tibia clients 3.0 -> 10.56.

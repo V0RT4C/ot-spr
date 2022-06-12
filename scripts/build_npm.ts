@@ -11,7 +11,7 @@ await build({
   },
   package: {
     // package.json properties
-    name: "@ot/spr",
+    name: "@v0rt4c/spr",
     version: Deno.args[0],
     description: "This is a module that can read/write tibia .SPR files. Supported versions 3.0 -> 10.56",
     license: "MIT",
